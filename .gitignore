@@ -1,0 +1,4 @@
+output.data
+kmeans
+inputs/*.mat
+
